@@ -1,0 +1,1 @@
+chạy file sql -> vào visual kết nối lại sever, vào appconfig sửa lại kết nối -> chạy thôi !!!

@@ -1,0 +1,115 @@
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\FontAwesome.Sharp.dll
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmPhongBan.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoHiem.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHopDong.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmNhanVien.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTaiKhoan.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDoiMatKhau.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDangNhap.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmThemTaiKhoan.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmKhenThuongKyLuat.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTrangChu.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBangLuong.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChamCong.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChucVu.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoCaoNhanVien.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.cache
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.compiled
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHoTro.resources
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+H:\PT_TKHTTT\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChiTietChucVu.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChiTietChucVu.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHoTro.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBangLuong.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoCaoNhanVien.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoHiem.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChamCong.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChucVu.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDoiMatKhau.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHopDong.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmKhenThuongKyLuat.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDangNhap.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmNhanVien.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmPhongBan.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTaiKhoan.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmThemTaiKhoan.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTrangChu.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\RdlCompile.cache
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\obj\Debug\RdlCompile.compiled
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+H:\PT_TKHTTT\QuanLyNhanSu_2\QuanLyNhanSu\bin\Debug\FontAwesome.Sharp.dll
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\FontAwesome.Sharp.dll
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChiTietChucVu.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHoTro.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBangLuong.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoCaoNhanVien.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoHiem.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChamCong.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChucVu.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDoiMatKhau.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHopDong.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmKhenThuongKyLuat.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDangNhap.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmNhanVien.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmPhongBan.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTaiKhoan.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmThemTaiKhoan.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTrangChu.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.cache
+H:\PT_TKHTTT\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChiTietChucVu.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHoTro.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBangLuong.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoCaoNhanVien.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmBaoHiem.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChamCong.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmChucVu.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDoiMatKhau.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmHopDong.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmKhenThuongKyLuat.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmDangNhap.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmNhanVien.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmPhongBan.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTaiKhoan.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmThemTaiKhoan.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.GUI.frmTrangChu.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Main.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\PTTK_HTTK online\DoAn_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\PTTK_HTTK online\Nhom4_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\DELL\Desktop\PTTK_HTTK online\Nhom4_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\DELL\Desktop\PTTK_HTTK online\Nhom4_QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
